@@ -28,6 +28,9 @@ I am always excited about applying my knowledge to real-world scenarios and brin
 **[Sales and Customer Insights Analysis](https://github.com/HarshitPandey32/Sales-and-Customer-Insights-Analysis-in-Excel)**  
 A deep dive into sales data using Advance Excel to uncover key customer behavior insights.
 
+**[Data-Analysis-of-Black-Friday-Sale](https://github.com/HarshitPandey32/Data-Analysis-of-Black-Friday-Sale-using-Python)**
+EDA of Black Friday Sale data to uncover customer spending patterns, popular products, and key purchasing trends using Python.
+
 **[Sales Forecasting and Predictive Modeling](https://github.com/HarshitPandey32/Sales-Forecasting-and-Predictive-Modeling-for-Retail-Business)**  
 Applying Machine Learning techniques to predict future retail sales.
 
